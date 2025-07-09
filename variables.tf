@@ -7,11 +7,11 @@ variable "environment" {
 }
 
 variable "zone_id" {
-    default = "Z032558618100M4EJX8X4"
+    default = "Z055853317ZUULRH6L095"
 }
 
 variable "zone_name" {
-    default = "daws84s.site"
+    default = "somisettibhavya.life"
 }
 
 variable "component" {
